@@ -1,0 +1,5 @@
+{
+    "codedeploy.region": "ap-south-1",
+    "codedeploy.applicationName": "CV-foryou-app",
+    "codedeploy.isApplicationWorkspace": true
+}
