@@ -7,11 +7,8 @@ from django.shortcuts import render
 def index1(request):
     return render(request,'master.html')
 
-# def index(request):
-#     return render(request,'index.html')
-
 def index(request):
-    return render(request,'sample.html')
+    return render(request,'index.html')
 
 def templateFun(request):
     return render(request,'templates.html')
