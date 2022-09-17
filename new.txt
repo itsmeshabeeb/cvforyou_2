@@ -1,7 +1,10 @@
 new txt file added
+<<<<<<< HEAD
 
 
 
 --------------
 
 new lines are added
+=======
+>>>>>>> 72b1c5b (new)
