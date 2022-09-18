@@ -3,8 +3,4 @@ new txt file added
 
 
 
---------------
-
-new lines are added
-=======
->>>>>>> 72b1c5b (new)
+-------------
